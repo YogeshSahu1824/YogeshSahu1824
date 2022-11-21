@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yogesh Sahu
 - 👀 I’m interested in ..c/c++/python/web3.
-- 🌱 I’m currently learning ...python and web development
+- 🌱 I’m currently learning ...DSA and web development
 - 
 
 <!---
